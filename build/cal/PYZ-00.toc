@@ -1,0 +1,707 @@
+('D:\\Calculator\\Calculator\\build\\cal\\PYZ-00.pyz',
+ [('FreeSimpleGUI',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\__init__.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI._utils',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\_utils.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\__init__.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.base',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\base.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.button',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\button.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.calendar',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\calendar.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.canvas',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\canvas.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.checkbox',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\checkbox.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.column',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\column.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.combo',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\combo.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.error',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\error.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.frame',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\frame.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.graph',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\graph.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.helpers',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\helpers.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.image',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\image.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.input',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\input.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.list_box',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\list_box.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.menu',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\menu.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.multiline',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\multiline.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.option_menu',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\option_menu.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.pane',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\pane.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.progress_bar',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\progress_bar.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.radio',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\radio.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.separator',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\separator.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.sizegrip',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\sizegrip.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.slider',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\slider.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.spin',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\spin.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.status_bar',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\status_bar.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.stretch',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\stretch.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.tab',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\tab.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.table',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\table.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.text',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\text.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.elements.tree',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\elements\\tree.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.tray',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\tray.py',
+   'PYMODULE'),
+  ('FreeSimpleGUI.window',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\FreeSimpleGUI\\window.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.colorchooser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\colorchooser.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\HP DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\HP '
+   'DT\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])
