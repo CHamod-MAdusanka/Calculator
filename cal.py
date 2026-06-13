@@ -13,3 +13,22 @@ def create_calc_window():
     [FSGUI.Button("0"), FSGUI.Button("C"), FSGUI.Button("="), FSGUI.Button("+")]
     ]
     return FSGUI.Window("Simple Calculator", layout)
+def main():
+    window = create_calc_window()
+    current_expression = ""
+    while True:
+        event, values = window.read()
+        if event == FSGUI.WIN_CLOSED:
+            break
+        elif event == "C":
+            current_expression = ""
+        elif event == "=":
+            current_expression = calculate_result(current_expression)
+        else:
+            current_expression += event
+        window["-DISPLAY-"].update(current_expression)
+    window.close()
+if __name__ == "__main__":    main()    
+
+
+
